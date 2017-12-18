@@ -1,0 +1,14 @@
+﻿  Render.cpp
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(109): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(111): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(112): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(324): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(325): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\bivan\documents\лабыпрога\grafika_lab2-master\openglrememberproj\render.cpp(326): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  PrimitivesStatic.cpp
+  Primitives.cpp
+  OpenGLrememberProj.cpp
+  Object.cpp
+  MyOGL.cpp
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> C:\Users\bivan\Documents\лабыПрога\grafika_lab2-master\Debug\OpenGLrememberProj.exe
